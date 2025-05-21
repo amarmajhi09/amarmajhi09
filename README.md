@@ -15,7 +15,6 @@
 | Programming           | Python, C++, MATLAB, Bash |
 | Embedded Systems      | Arduino, STM32, Raspberry Pi, CAN |
 | AI/ML/DL              | scikit-learn, PyTorch, TensorFlow, OpenCV, YOLO |
-| Version Control       | Git, GitHub, GitLab |
 
 ## 🔬 Featured Projects
 - 🤖 **AgriBot** – An autonomous field robot using ROS, AI & CV for weed detection and navigation.

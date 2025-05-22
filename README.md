@@ -24,7 +24,6 @@
 ## 📫 Connect With Me
 - 🔗 LinkedIn: www.linkedin.com/in/amar-majhi 
 - 📧 Email: majhiamr20@gmail.com  
-- 📁 Portfolio: 
 ## 🚧 I’m currently working on:
 - Integrating ROS2 + AI for fully autonomous agricultural bots  
 - Modeling EV drivetrains and BMS in Simulink  
